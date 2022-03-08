@@ -19,8 +19,8 @@
  <img src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor" alt="php" width="40" height="40"/> 
 </p>
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-000000?style=flat&labelColor=000000&logo=twitter&logoColor=white&link=https://twitter.com/MuhammetSrcn)](https://twitter.com/elifmeseci)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammed-sar%C4%B1can-76b21a217//)](https://www.linkedin.com/in/elifmeseci/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-000000?style=flat&labelColor=000000&logo=twitter&logoColor=white&link=https://twitter.com/MuhammetSrcn)](https://twitter.com/MuhammetSrcn)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammed-sar%C4%B1can-76b21a217//)](https://www.linkedin.com/in/muhammed-sar%C4%B1can-76b21a217/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-000000?style=flat&logo=Gmail&logoColor=white&link=mailto:muhammetsarican@gmail.com)](mailto:muhammetsarican@gmail.com)
 
 <!--
