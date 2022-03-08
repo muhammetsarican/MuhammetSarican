@@ -9,8 +9,8 @@
 <br>
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=MuhammetSarican&color=yellow" alt="MuhammetSarican" /> </p>-->
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammetSarican&layout=compact&hide=html" alt="MuhammetSarican"/></p>
-
+<!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammetSarican&layout=compact&hide=html" alt="MuhammetSarican"/></p>
+ -->
 <p align="left"> 
  <img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" alt="c" width="40" height="40"/>
  <img src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" alt="csharp" width="40" height="40"/>
