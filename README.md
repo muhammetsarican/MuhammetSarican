@@ -17,6 +17,7 @@
  <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="python" width="40" height="40"/>
  <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" alt="git" width="40" height="40"/> 
  <img src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor" alt="php" width="40" height="40"/> 
+ <img src="https://icongr.am/devicon/laravel-plain-wordmark.svg?size=128&color=currentColor" alt="php" width="40" height="40"/> 
 </p>
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-000000?style=flat&labelColor=000000&logo=twitter&logoColor=white&link=https://twitter.com/MuhammetSrcn)](https://twitter.com/MuhammetSrcn)
