@@ -1,11 +1,16 @@
 ### Hi there 👋 I'm Muhammet Sarıcan
 ## Computer Eng. Student - 💻
 
+*Hello there my name is Muhammet, I'm gonna graduate from Karabuk University when I do my last internship. If I talk about myself, I am working as freelancer since April 2022 and I create more than ten successful projects at frontend, backend and desktop fields. At last one year I focused to frontend field and I studied on reactjs. Lastly, I am studying on vue js for 1 month. If you inspect my projects and wants to give feedback, u can send on [this link](muhammetsarican.com/contact).*
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=muhammetsarican&label=Profile%20views&color=0e75b6&style=flat" alt="muhammetsarican" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammetsarican&column=-1&rank=-?&margin-w=10&no-frame=true" alt="muhammetsarıcan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammetsarican&column=-1&rank=-?,-B,-C&margin-w=10&no-frame=true" alt="muhammetsarıcan" /></a> </p>
 <br>
-- :seedling: I’m interested in Full Stack Development
+
+- :seedling: I’m interested in Frontend Development
+
+- 🔭 I’m currently working on Vue JS and React JS
 
 
 - :mailbox: How to reach me: muhammetsarican@gmail.com
@@ -41,7 +46,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Vue JS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
