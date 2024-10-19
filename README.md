@@ -4,7 +4,7 @@
 
 *Hello there my name is Muhammet, I'm gonna graduate from Karabuk University when I do my last internship. If I talk about myself, I am working as freelancer since April 2022 and I create more than ten successful projects at frontend, backend and desktop fields. At last one year I focused to frontend field and I studied on reactjs. Lastly, I am studying on vue js for 1 month. If you inspect my projects and wants to give feedback, u can send on [this link](muhammetsarican.com/contact).*
 
-<span> [![Farmrein.com](https://img.shields.io/badge/Website-144758?style=for-the-badge&logo=&logoColor=white)](https://farmrein.com/) [ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammetsarican) </span>
+<span> [![Farmrein.com](https://img.shields.io/badge/Farmrein.com-144758?style=for-the-badge&logo=&logoColor=white)](https://farmrein.com/) [ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammetsarican) </span>
 
 ### 👨‍💻 My Skills
 
