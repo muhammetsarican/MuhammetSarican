@@ -1,85 +1,58 @@
 ## Hi there 👋 I'm Muhammet Sarıcan
-### Computer Eng. Student - 💻
+### Full Stack Developer · Ankara, Türkiye 💻
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=muhammetsarican&label=Profile%20views&color=0e75b6&style=flat" alt="muhammetsarican" /> </p>
 
-*Hello there my name is Muhammet, I'm gonna graduate from Karabuk University when I do my last internship. If I talk about myself, I am working as freelancer since April 2022 and I create more than ten successful projects at frontend, backend and desktop fields. At last one year I focused to frontend field and I studied on reactjs. Lastly, I am studying on vue js for 1 month. If you inspect my projects and wants to give feedback, u can send on [this link](muhammetsarican.com/contact).*
+I'm a full stack developer with 3+ years of hands-on experience, including 1.5+ years as the sole developer of production platforms at a software company in Hacettepe Teknokent. I build web apps with **Vue / Nuxt** and **React + TypeScript**, and backends with **Node.js**, **NestJS** and **MongoDB**. I like owning products end to end, from the first requirement to production.
 
-<span> [![Farmrein.com](https://img.shields.io/badge/Farmrein.com-144758?style=for-the-badge&logo=&logoColor=white)](https://farmrein.com/) [ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammetsarican) </span>
+🟢 **Open to new opportunities:** Full Stack, Frontend and Backend (Node.js) roles in Ankara or remote.
 
-### 👨‍💻 My Skills
+<span>
+<a href="https://farmrein.com/"><img src="https://img.shields.io/badge/Farmrein.com-144758?style=for-the-badge" alt="Farmrein" /></a>
+<a href="https://bkahve.com/"><img src="https://img.shields.io/badge/bkahve.com-6F4E37?style=for-the-badge" alt="b'kahve?" /></a>
+<a href="https://www.linkedin.com/in/muhammetsarican"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</span>
 
--  **Language:** JavaScript, TypeScript, Python
--  **Frontend:** ReactJs, VueJs
--  **DevOps:**  Docker, Redis
--  **Logging:**  Clerk
--  **Database:** Relational Database (SQL, MySQL) / Non-Relational Database (MongoDB)
+### 🚀 What I'm Building
 
-<!-- ### 🚀 Open Source Projects
+- **[Farmrein](https://farmrein.com/)** – A platform for livestock farmers and dairy cooperatives: herd records, milk collection, feed sales and monthly accounting. Live in beta with 65 users. React + TypeScript web app, Flutter mobile app, Node.js / MongoDB / Redis backend on Docker, and AI-assisted IoT devices for milk collection points.
+- **[b'kahve?](https://bkahve.com/)** – Create and share a coffee invitation link with place, time and a note. No sign-up needed. Vue.js on top of my own Node.js library, running on Docker.
+- **Custom Node.js Backend Library** – My own object-oriented backend architecture, packaged as a reusable npm library and used across my live products.
 
-<table>
- <thead>
-  <tr>
-   <td>App Name</td>
-   <td>Description</td>
-  </tr>
- </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/muhammetsarican/toggle_keys_notifier"><b>⭐️ Toggle Keys Notifier</b></a></td>
-      <td>This Toggle keys notifier app, built with Python language, efficient and continuous notification tool.</td>
-    </tr>
-  </tbody>
-</table> -->
+### 👨‍💻 Skills
 
-### 🏆 Trophies
+- **Languages:** JavaScript, TypeScript, PHP, Python, Dart
+- **Frontend:** Vue.js (2 & 3, Composition API), Nuxt.js, React, Redux, Tailwind CSS, SCSS
+- **Backend:** Node.js, Express.js, NestJS, Laravel, REST APIs
+- **Databases & Cache:** MongoDB, MySQL, Redis
+- **Mobile & Desktop:** Flutter, Tauri
+- **DevOps:** Docker, Docker Compose, Nginx, Cloudflare, Git, Linux (Arch Linux)
+- **AI-Assisted Development:** Claude Code, Gemini CLI, Antigravity, with written project rules and careful code review
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammetsarican&column=-1&rank=-?&margin-w=10&no-frame=true" alt="muhammetsarıcan" /></a> </p>
-<br>
+### 🛠 Tech Stack
 
-### 🧩 More About Me
-- :seedling: I’m interested in Frontend Development
-
-- 🔭 I’m currently working on Vue JS and React JS
-
-
-- :mailbox: How to reach me: muhammetsarican@gmail.com
-<br>
-
-<!--<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammetSarican&layout=compact&hide=html" alt="MuhammetSarican"/></p>-->
-### 🛠 My Tools
-
-<p align="left"> 
- <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" alt="react" width="40" height="40"/> 
- <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" width="40" height="40"/> 
- <img src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor" alt="mongodb" width="40" height="40"/> 
- <img src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" alt="mysql" width="40" height="40"/> 
- <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="python" width="40" height="40"/>
- <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" alt="git" width="40" height="40"/> 
- <img src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor" alt="php" width="40" height="40"/> 
- <img src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" alt="docker" width="40" height="40"/> 
- <img src="https://icongr.am/devicon/redis-original.svg?size=128&color=currentColor" alt="redis" width="40" height="40"/> 
- <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" alt="typescript" width="40" height="40"/> 
- <img src="https://icongr.am/devicon/laravel-plain-wordmark.svg?size=128&color=currentColor" alt="laravel" width="40" height="40"/> 
- <img src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" alt="csharp" width="40" height="40"/>
- <img src="https://icongr.am/devicon/babel-original.svg?size=128&color=currentColor" alt="babel" width="40" height="40"/> 
- <img src="https://icongr.am/devicon/webpack-original.svg?size=128&color=currentColor" alt="webpack" width="40" height="40"/> 
-<!--  <img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" alt="c" width="40" height="40"/> -->
+<p align="left">
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+<img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white" alt="Nuxt" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="Arch Linux" />
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
 </p>
 
 ### 📬 Contact
-<!--[![Twitter Badge](https://img.shields.io/badge/-Twitter-000000?style=flat&labelColor=000000&logo=twitter&logoColor=white&link=https://twitter.com/MuhammetSrcn)](https://twitter.com/MuhammetSrcn)-->
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammed-sar%C4%B1can-76b21a217//)](https://www.linkedin.com/in/muhammed-sar%C4%B1can-76b21a217/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-000000?style=flat&logo=Gmail&logoColor=white&link=mailto:muhammetsarican@gmail.com)](mailto:muhammetsarican@gmail.com)
-<!--
-**MuhammetSarican/MuhammetSarican** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Vue JS
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammetsarican)
+[![Gmail](https://img.shields.io/badge/-Gmail-000000?style=flat&logo=gmail&logoColor=white)](mailto:muhammetsarican@gmail.com)
