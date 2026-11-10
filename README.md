@@ -8,6 +8,7 @@ I'm a full stack developer with 3+ years of hands-on experience, including 1.5+ 
 🟢 **Open to new opportunities:** Full Stack, Frontend and Backend (Node.js) roles in Ankara or remote.
 
 <span>
+<a href="https://sacred.freehour.dev/"><img src="https://img.shields.io/badge/Portfolio-sacred.freehour.dev-F28C28?style=for-the-badge" alt="Portfolio" /></a>
 <a href="https://farmrein.com/"><img src="https://img.shields.io/badge/Farmrein.com-144758?style=for-the-badge" alt="Farmrein" /></a>
 <a href="https://bkahve.com/"><img src="https://img.shields.io/badge/bkahve.com-6F4E37?style=for-the-badge" alt="b'kahve?" /></a>
 <a href="https://www.linkedin.com/in/muhammetsarican"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -15,6 +16,7 @@ I'm a full stack developer with 3+ years of hands-on experience, including 1.5+ 
 
 ### 🚀 What I'm Building
 
+- **[My Sacred Timeline](https://sacred.freehour.dev/)** – My interactive portfolio: a branching timeline where the main line is my life and every branch is a project that started in a free hour. Built with AI-assisted development (concept, content and structure mine; code written together with AI). TR/EN.
 - **[Farmrein](https://farmrein.com/)** – A platform for livestock farmers and dairy cooperatives: herd records, milk collection, feed sales and monthly accounting. Live in beta with 65 users. React + TypeScript web app, Flutter mobile app, Node.js / MongoDB / Redis backend on Docker, and AI-assisted IoT devices for milk collection points.
 - **[b'kahve?](https://bkahve.com/)** – Create and share a coffee invitation link with place, time and a note. No sign-up needed. Vue.js on top of my own Node.js library, running on Docker.
 - **Custom Node.js Backend Library** – My own object-oriented backend architecture, packaged as a reusable npm library and used across my live products.
