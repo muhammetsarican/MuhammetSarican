@@ -3,7 +3,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=muhammetsarican&label=Profile%20views&color=0e75b6&style=flat" alt="muhammetsarican" /> </p>
 
-I'm a full stack developer with 3+ years of hands-on experience, including 1.5+ years as the sole developer of production platforms at a software company in Hacettepe Teknokent. I build web apps with **Vue / Nuxt** and **React + TypeScript**, and backends with **Node.js**, **NestJS** and **MongoDB**. I like owning products end to end, from the first requirement to production.
+I'm a full stack developer with 3+ years of hands-on experience, including 1.5+ years as the lead developer of production platforms at a software company in Hacettepe Teknokent, working with a senior technical lead who assigned and reviewed my work. I build web apps with **Vue / Nuxt** and **React + TypeScript**, and backends with **Node.js**, **NestJS** and **MongoDB**. I like owning products end to end, from the first requirement to production.
 
 🟢 **Open to new opportunities:** Full Stack, Frontend and Backend (Node.js) roles in Ankara or remote.
 
